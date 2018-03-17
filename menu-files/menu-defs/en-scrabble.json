@@ -1,0 +1,10 @@
+{
+"intended_use":"html",
+"lang" : "en",
+"logo_url" : "scrabble.png",
+"menu_item_name" : "en-scrabble",
+"moddir" : "jscrab/src/",
+"title" : "Single Player Scrabble",
+"description":"Scrabble to help learn English.",
+"extra_html":""
+}

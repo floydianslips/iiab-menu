@@ -1,0 +1,10 @@
+{
+"intended_use":"html",
+"lang" : "en",
+"logo_url" : "backblue.gif",
+"menu_item_name" : "my-englishspeak",
+"moddir" : "my-englishspeak",
+"title" : "Speak English",
+"description":"Learn to Speak English.",
+"extra_html":""
+}

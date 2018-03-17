@@ -1,0 +1,16 @@
+{
+ "intended_use" : "html",
+ "category" : null,
+ "title" : "Books of Myanmar",
+ "prereq_id" : null,
+ "moddir" : "my-yoma",
+ "logo_url" : "en-ebooks.jpg",
+ "description" : "Books From www.shanyoma.org",
+ "extra_html" : null,
+ "source_url" : "https://www.shanyoma.org/",
+ "lang" : "my",
+ "prereq_note" : "",
+ "zip_http_url" : null,
+ "file_count" : "null",
+ "menu_item_name" : "my-yoma"
+}
